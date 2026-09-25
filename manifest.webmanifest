@@ -1,0 +1,13 @@
+{
+  "name": "Solitaire Klondike — Noite Estrelada",
+  "short_name": "Solitaire",
+  "description": "Solitaire Klondike gratuito, sem anúncios e jogável offline.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#103d46",
+  "theme_color": "#10334a",
+  "icons": [{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
+
