@@ -24,7 +24,7 @@ Abra a URL uma vez online para instalar e permitir que o service worker guarde o
 
 ## Referências de temas recebidas
 
-As referências abaixo são tratadas como temas independentes. Só **Noite Estrelada** tem arte aplicada neste primeiro protótipo; as outras direções ficam catalogadas para serem geradas como decks próprios.
+As referências abaixo ficam guardadas como direções para temas futuros. Para controlar o tamanho e o custo de geração, este início implementa e gera arte apenas para **Noite Estrelada**; nenhum dos decks futuros foi produzido.
 
 1. Noite Estrelada — raios celestes, estrelas e folk-art colorida.
 2. Gato Geométrico — creme, amarelo e verde-água.
@@ -39,5 +39,5 @@ As referências abaixo são tratadas como temas independentes. Só **Noite Estre
 11. Rosa Romântico — naipes delicados e embalagem floral.
 12. Minimalismo Geométrico — papel texturizado, grade discreta e naipes em vermelho escuro.
 
-As imagens são usadas como referência de estilo para criar arte original, sem reproduzir marcas ou textos das embalagens fotografadas.
+As imagens são usadas como referência de estilo para criar arte original, sem reproduzir marcas ou textos das embalagens fotografadas. O verso gerado foi otimizado para JPEG para reduzir o download e o cache offline.
 
