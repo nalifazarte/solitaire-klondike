@@ -1,6 +1,6 @@
 const SUITS=['♠','♥','♣','♦'];
 const RANKS=['','A','2','3','4','5','6','7','8','9','10','J','Q','K'];
-const THEMES=[{name:'Noite Estrelada',back:'assets/theme-celestial-animal-back.png',colors:['#155a58','#103d46']}];
+const THEMES=[{name:'Noite Estrelada',back:'assets/theme-celestial-animal-back.jpg',colors:['#155a58','#103d46']}];
 const $=id=>document.getElementById(id);
 let drawCount=1, game, history=[], selected=null, themeIndex=0, moves=0;
 const clone=value=>JSON.parse(JSON.stringify(value));
